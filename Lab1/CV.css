@@ -1,0 +1,47 @@
+
+  body
+  {
+    font-family: sans-serif;
+  }
+
+  h1
+  {
+    color: blue;
+    font-weight: bold;
+  }
+
+  #contact
+  {
+    font-weight: bold;
+  }
+
+  #picture
+  {
+    width: 45%;
+  }
+
+  h2
+  {
+    margin-top: 4%;
+    text-align: center;
+    background-color: lightGray;
+    font-variant: small-caps;
+    letter-spacing: 4px;
+    color: purple;
+    font-weight: bold;
+  }
+
+  #now
+  {
+    font-size: x-small;
+    color: DarkGreen;
+  }
+  #italic
+  {
+    font-style: italic;
+  }
+  .firstRowLastTable
+  {
+    font-weight: bold;
+    text-align: center;
+  }

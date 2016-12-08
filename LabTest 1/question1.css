@@ -1,0 +1,18 @@
+body
+{
+    background-color: green;
+    color: orange;
+}
+.id1 .id2
+{
+    color: white;
+}
+.id3 .id2
+{
+    color: black;
+}
+h1
+{
+    font-family: sans-serif;
+    font-weight: bold;
+}
